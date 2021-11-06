@@ -52,8 +52,8 @@ echo $hebon->get_hebon();
 // 結果
 Array
 (
-    [0] => TESUKOOOO
-    [1] => TESUKO
+    [0] => TESUTO
+    [1] => TESUKOOOO
 )
 ```
 
