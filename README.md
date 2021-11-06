@@ -5,7 +5,7 @@
 「class-convert-kana-to-hebon.php」を取り込んで使用してください。
 
 # 使い方
-```bash
+```php
 $name = 'てすと　てすこ';
 $hebon = new Convert_Kana_To_Hebon( $name );
 echo $hebon->get_hebon();
@@ -19,7 +19,7 @@ Array
 ```
 
 # 入力
-```bash
+```php
 // 半角スペース
 $name = 'てすと てすこ';
 
@@ -41,7 +41,7 @@ $name = [
 長音だけれど読む場合、任意で変更したい場合に使用してください。
 
 例)
-```bash
+```php
 $name = 'てすと　てすこ';
 $option = [
   'てすこ' => 'TESUKOOOO'
