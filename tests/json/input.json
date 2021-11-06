@@ -1,0 +1,38 @@
+[
+    {
+        "kana": "はんかく すぺーす",
+        "hebon": [
+            "HANKAKU",
+            "SUPESU"
+        ]
+    },
+    {
+        "kana": "ぜんかく　すぺーす",
+        "hebon": [
+            "ZENKAKU",
+            "SUPESU"
+        ]
+    },
+    {
+        "kana": [
+            "はいれつ",
+            "けいしき"
+        ],
+        "hebon": [
+            "HAIRETSU",
+            "KEISHIKI"
+        ]
+    },
+    {
+        "kana": "ALPHABET",
+        "hebon": [
+            "ALPHABET"
+        ]
+    },
+    {
+        "kana": "こNZAい",
+        "hebon": [
+            "KONZAI"
+        ]
+    }
+]
